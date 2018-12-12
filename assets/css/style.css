@@ -45,3 +45,16 @@ body {
   font-size: 10px;
   color: #fff;
 }
+
+.image-text {
+  background-color: #26857B;
+  color: #fff;
+  text-align: center;
+  width: 150px
+}
+
+.image-size {
+  width:150px;
+  height:150px;
+  
+}
