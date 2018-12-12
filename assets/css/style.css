@@ -1,0 +1,47 @@
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+body {
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/04/16/44/24582529b714df0.jpg");
+  min-height: 100vh;
+}
+
+.body-white {
+  background-color: #fff;
+}
+
+.navbar-text-style {
+    background-color: #26857B;
+    font-size: 24px;
+    color: white;
+}
+
+.navbar {
+  border-bottom: 5px solid #000;
+}
+
+.about-me {
+  color: #26857B;
+}
+
+.padding-top {
+  padding-top: 10px;
+}
+
+.image-padding-right {
+  padding-right: 5px;
+}
+
+.footer {
+  border-top: 5px solid #26857B;
+  background-color: #232127;
+}
+
+.footer-text {
+  font-size: 10px;
+  color: #fff;
+}
